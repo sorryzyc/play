@@ -12,7 +12,7 @@
             <el-aside width="200px">
                 <!-- 侧边栏导航 -->
                 <!-- 
-                     el-menu：导航组件 
+                     el-menu：导航组件, 
                      default-active：当前激活菜单的index（就是让对应的index高亮）
                      el-menu-vertical-demo：这个样式可以不需要 
                      background-color：菜单的背景色（仅支持 hex 格式）
